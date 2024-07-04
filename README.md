@@ -1,1 +1,3 @@
-Personal notes app. A project from Dicoding, but with some changes i.e. removal of react class component, use of react hook, and local storage feature.
+# Personal Notes App
+
+This project is a personal notes application originally from a Dicoding course. It has been customized with modern practices including the removal of React class components in favor of React hooks. Additionally, it features a local storage capability for saving notes directly in the browser.
